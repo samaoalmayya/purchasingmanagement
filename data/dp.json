@@ -1,3 +1,9 @@
 {
-  "myData": []
+  "myData": [
+    {
+      "id": "b3e6",
+      "title": "sam",
+      "price": 12
+    }
+  ]
 }
